@@ -1,16 +1,16 @@
 body{
 
-  color :blue;
+  color :red;
 
   text-align :center ;
-font-family: "Arial";
+font-family: "Roboto";
 font-size: 16px;
 margin: 0;
 padding: 0;
 }
 #cabecera{
 
-background: #33A;
+background: black;
 box-shadow: 0px 2px 20px 0px rgba(0,0,0,0,5);
 color:white ;
 font-weight: bold;
